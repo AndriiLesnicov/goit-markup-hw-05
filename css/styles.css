@@ -748,6 +748,7 @@ a {
   align-items: center;
   justify-content: center;
   fill: transparent;
+  margin-right: 8px;
 }
 
 .checkbox-input:checked + label .checkbox {
@@ -756,11 +757,7 @@ a {
   border: none;
 }
 
-.policy-text {
-  margin-left: 8px;
-}
-
-.link_style {
+.link-style {
   color: #4d5ae5;
   margin-left: 4px;
   text-decoration: underline;
