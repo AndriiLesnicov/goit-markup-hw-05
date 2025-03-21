@@ -729,6 +729,14 @@ a {
   margin-bottom: 24px;
 }
 
+.checkbox-text {
+  /* display: flex; */
+  font-size: 12px;
+  line-height: 1.17;
+  letter-spacing: 0.04em;
+  color: #8e8f99;
+}
+
 .checkbox {
   display: inline-flex;
   align-items: center;
@@ -748,14 +756,6 @@ a {
   background-color: #404bbf;
   fill: #f4f4fd;
   border: none;
-}
-
-.checkbox-text {
-  display: flex;
-  font-size: 12px;
-  line-height: 1.17;
-  letter-spacing: 0.04em;
-  color: #8e8f99;
 }
 
 .link-style {
